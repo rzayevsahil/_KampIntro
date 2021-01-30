@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance(5gun.odev)", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces(5.gun.odev)", "Interfaces(5.gun.odev)\Interfaces(5.gun.odev).csproj", "{60405F20-EEF9-4B79-84C0-7E44AD9DDCE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract(5gun.odev)", "Abstract(5gun.odev)\Abstract(5gun.odev).csproj", "{65DED8E2-98EA-45C8-BB09-959F82E42A8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{60405F20-EEF9-4B79-84C0-7E44AD9DDCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60405F20-EEF9-4B79-84C0-7E44AD9DDCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60405F20-EEF9-4B79-84C0-7E44AD9DDCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DED8E2-98EA-45C8-BB09-959F82E42A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DED8E2-98EA-45C8-BB09-959F82E42A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DED8E2-98EA-45C8-BB09-959F82E42A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DED8E2-98EA-45C8-BB09-959F82E42A8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
