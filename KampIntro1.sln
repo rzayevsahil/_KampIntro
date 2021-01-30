@@ -33,9 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes(odev)", "Classes(odev)\Classes(odev).csproj", "{7F7F5753-BCFF-40F9-9AF2-EE6C96081822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1(5.odev)", "RecapDemo1(odev)\RecapDemo1(5.odev).csproj", "{DDCEE194-FA55-4A31-B8BC-D46AA4A66003}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1(5gun.odev)", "RecapDemo1(odev)\RecapDemo1(5gun.odev).csproj", "{DDCEE194-FA55-4A31-B8BC-D46AA4A66003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces(5.odev)", "Interfaces(odev)\Interfaces(5.odev).csproj", "{7A7BA2A6-8867-48D8-B5E3-1222254CCA06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces(5gun.odev)", "Interfaces(odev)\Interfaces(5gun.odev).csproj", "{7A7BA2A6-8867-48D8-B5E3-1222254CCA06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
