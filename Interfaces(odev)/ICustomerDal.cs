@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Interfaces_odev_
 {
-    interface ICustomerDal//işlem yaparız update delete gibi
+    interface ICustomerDal//veritabanı işlemlerini gerçekleştiririz - işlem yaparız update delete gibi
     {
         void Add();
         void Update();
