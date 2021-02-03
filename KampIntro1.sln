@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "Oop2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{F18D2A15-457A-41C0-AE16-432AF5BBC1EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes(odev)", "Classes(odev)\Classes(odev).csproj", "{7F7F5753-BCFF-40F9-9AF2-EE6C96081822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes(odev)", "Classes(odev)\Classes(odev).csproj", "{7F7F5753-BCFF-40F9-9AF2-EE6C96081822}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1(5gun.odev)", "RecapDemo1(odev)\RecapDemo1(5gun.odev).csproj", "{DDCEE194-FA55-4A31-B8BC-D46AA4A66003}"
 EndProject
@@ -41,9 +41,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo(5gun.odev)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance(5gun.odev)", "Inheritance(5gun.odev)\Inheritance(5gun.odev).csproj", "{3EE6950D-A773-419D-BAF6-170A28EA04FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces(5.gun.odev)", "Interfaces(5.gun.odev)\Interfaces(5.gun.odev).csproj", "{60405F20-EEF9-4B79-84C0-7E44AD9DDCE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces(5.gun.odev)", "Interfaces(5.gun.odev)\Interfaces(5.gun.odev).csproj", "{60405F20-EEF9-4B79-84C0-7E44AD9DDCE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract(5gun.odev)", "Abstract(5gun.odev)\Abstract(5gun.odev).csproj", "{65DED8E2-98EA-45C8-BB09-959F82E42A8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract(5gun.odev)", "Abstract(5gun.odev)\Abstract(5gun.odev).csproj", "{65DED8E2-98EA-45C8-BB09-959F82E42A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectWithEnginTeacher", "GameProjectWithEnginTeacher\GameProjectWithEnginTeacher.csproj", "{89D6C83A-EB05-4F6C-B04B-B85997198524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{65DED8E2-98EA-45C8-BB09-959F82E42A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65DED8E2-98EA-45C8-BB09-959F82E42A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65DED8E2-98EA-45C8-BB09-959F82E42A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D6C83A-EB05-4F6C-B04B-B85997198524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D6C83A-EB05-4F6C-B04B-B85997198524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D6C83A-EB05-4F6C-B04B-B85997198524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D6C83A-EB05-4F6C-B04B-B85997198524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
