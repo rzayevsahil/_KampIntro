@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces(5.gun.odev)", "I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract(5gun.odev)", "Abstract(5gun.odev)\Abstract(5gun.odev).csproj", "{65DED8E2-98EA-45C8-BB09-959F82E42A8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectWithEnginTeacher", "GameProjectWithEnginTeacher\GameProjectWithEnginTeacher.csproj", "{89D6C83A-EB05-4F6C-B04B-B85997198524}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProjectWithEnginTeacher", "GameProjectWithEnginTeacher\GameProjectWithEnginTeacher.csproj", "{89D6C83A-EB05-4F6C-B04B-B85997198524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject(7thDayHomework)", "LinqProject(7thDayHomework)\LinqProject(7thDayHomework).csproj", "{BA044146-0860-424C-8708-8AB4719D812F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{89D6C83A-EB05-4F6C-B04B-B85997198524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D6C83A-EB05-4F6C-B04B-B85997198524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D6C83A-EB05-4F6C-B04B-B85997198524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA044146-0860-424C-8708-8AB4719D812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA044146-0860-424C-8708-8AB4719D812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA044146-0860-424C-8708-8AB4719D812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA044146-0860-424C-8708-8AB4719D812F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
