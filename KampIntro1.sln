@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1321
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro1", "KampIntro1\KampIntro1.csproj", "{BC09DC00-CD6C-4A4D-876A-AA37A3F654D5}"
 EndProject
@@ -47,7 +47,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract(5gun.odev)", "Abst
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProjectWithEnginTeacher", "GameProjectWithEnginTeacher\GameProjectWithEnginTeacher.csproj", "{89D6C83A-EB05-4F6C-B04B-B85997198524}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject(7thDayHomework)", "LinqProject(7thDayHomework)\LinqProject(7thDayHomework).csproj", "{BA044146-0860-424C-8708-8AB4719D812F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject(7thDayHomework)", "LinqProject(7thDayHomework)\LinqProject(7thDayHomework).csproj", "{BA044146-0860-424C-8708-8AB4719D812F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{9B0CB79E-1413-4940-B2F2-D6090C0C66A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{A2EEE2BE-0B81-44CA-9A00-6FF71EF0858B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{FEFC058A-30E7-41C6-9CF3-C962A9E1A4D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateFunc", "DelegateFunc\DelegateFunc.csproj", "{F85618DB-11D7-4329-BAE5-D655E983B516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{8997F1E5-ADBC-4DA0-83A9-7171A68B25AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +157,26 @@ Global
 		{BA044146-0860-424C-8708-8AB4719D812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA044146-0860-424C-8708-8AB4719D812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA044146-0860-424C-8708-8AB4719D812F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0CB79E-1413-4940-B2F2-D6090C0C66A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0CB79E-1413-4940-B2F2-D6090C0C66A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0CB79E-1413-4940-B2F2-D6090C0C66A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0CB79E-1413-4940-B2F2-D6090C0C66A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EEE2BE-0B81-44CA-9A00-6FF71EF0858B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EEE2BE-0B81-44CA-9A00-6FF71EF0858B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EEE2BE-0B81-44CA-9A00-6FF71EF0858B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EEE2BE-0B81-44CA-9A00-6FF71EF0858B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFC058A-30E7-41C6-9CF3-C962A9E1A4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFC058A-30E7-41C6-9CF3-C962A9E1A4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFC058A-30E7-41C6-9CF3-C962A9E1A4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFC058A-30E7-41C6-9CF3-C962A9E1A4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85618DB-11D7-4329-BAE5-D655E983B516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85618DB-11D7-4329-BAE5-D655E983B516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85618DB-11D7-4329-BAE5-D655E983B516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85618DB-11D7-4329-BAE5-D655E983B516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8997F1E5-ADBC-4DA0-83A9-7171A68B25AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8997F1E5-ADBC-4DA0-83A9-7171A68B25AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8997F1E5-ADBC-4DA0-83A9-7171A68B25AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8997F1E5-ADBC-4DA0-83A9-7171A68B25AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
